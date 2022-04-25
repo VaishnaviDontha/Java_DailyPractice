@@ -1,4 +1,4 @@
-package main.java.com.javadsa.functionsExamples;
+package functionsExamples;
 
 import java.util.Scanner;
 

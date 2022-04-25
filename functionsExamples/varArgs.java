@@ -1,4 +1,4 @@
-package main.java.com.javadsa.functionsExamples;
+package functionsExamples;
 
 public class varArgs {
     public static void main(String[] args) {
