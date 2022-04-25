@@ -1,4 +1,4 @@
-package com.javadsa.ConditionalsLoops;
+package ConditionalsLoops;
 
 import java.util.Scanner;
 
