@@ -46,7 +46,7 @@
 3. [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
 
 
-### From Videos
-1. Swap the Numbers 
-2. Max Value in an Array
+### From GeeksForGeeks
+1. Peak Element
+2. Max and Min Value in an Array
 3. Reversing an Array
