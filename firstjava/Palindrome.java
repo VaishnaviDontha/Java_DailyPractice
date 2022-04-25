@@ -1,4 +1,4 @@
-package com.javadsa.firstjava;
+package firstjava;
 
 import java.util.Scanner;
 
